@@ -27,10 +27,10 @@ Spotify dataset (publicly available via Spotify API or CSV exports) containing i
 🌐 Clean and responsive design for better usability
 
 6. Overview/ Demo
-- ![ALT text](https://github.com/Shantanum10/Weather-Dashboard/blob/main/Weather_Dashboard_Interface.png)
+- ![ALT text](https://github.com/Shantanum10/Spotify-Dashboard/blob/main/Spotify_Dashboard.png)
 
-- ![ALT text](https://github.com/Shantanum10/Weather-Dashboard/blob/main/Weather_Dashboard_Interface.png)
+- ![ALT text](https://github.com/Shantanum10/Spotify-Dashboard/blob/main/Spotify_Overview.png)
  
-- ![ALT text](https://github.com/Shantanum10/Weather-Dashboard/blob/main/Weather_Dashboard_Interface.png)
+- ![ALT text](https://github.com/Shantanum10/Spotify-Dashboard/blob/main/Spotify_Songs.png)
  
 
